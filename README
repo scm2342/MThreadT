@@ -1,0 +1,3 @@
+Threadmanager in Haskell, implemented as a Monad (Transformer)
+
+License: Public Domain
